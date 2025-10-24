@@ -13,4 +13,4 @@ Credit:
 
 levenimc on Reddit for creating the Adventure
 
-To UltHippo for making the maps and setting it up on FoundryVTT
+UltHippo on Reddit for making the maps and setting it up on FoundryVTT
