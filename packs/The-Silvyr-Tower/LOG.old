@@ -1,7 +1,5 @@
-2025/10/24-11:08:52.518 50e0 Recovering log #23
-2025/10/24-11:08:52.520 50e0 Delete type=0 #23
-2025/10/24-11:08:52.520 50e0 Delete type=3 #22
-2025/10/24-13:08:58.143 8278 Level-0 table #27: started
-2025/10/24-13:08:58.143 8278 Level-0 table #27: 0 bytes OK
-2025/10/24-13:08:58.144 8278 Delete type=0 #25
-2025/10/24-13:08:58.150 8278 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2025/10/24-18:17:45.706 2fbc Recovering log #29
+2025/10/24-18:17:45.706 2fbc Level-0 table #31: started
+2025/10/24-18:17:45.753 2fbc Level-0 table #31: 182122 bytes OK
+2025/10/24-18:17:45.760 2fbc Delete type=0 #29
+2025/10/24-18:17:45.760 2fbc Delete type=3 #28
